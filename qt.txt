@@ -1,1 +1,2 @@
 1. Tutorial1 - Drawing the Player (rectangle) 
+2. Tutorial2 - Moving with Arrow Keys
